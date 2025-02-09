@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on secret project<br>👯 I’m looking to collaborate on building NextJS projects<br>🌱 I’m currently learning Backend<br>⚡ Currently pursuing MCA<br>💬 This is Bhuvan Shetty
+
+### Hi, I'm **Bhuvan Shetty**! 👋
+
+🔭 **Currently working on**: A secret project 🤫<br>
+👯 **Looking to collaborate on**: Building **Next.js** projects 🚀<br>
+🌱 **Currently learning**: Backend development 🖥️<br>
+⚡ **Pursuing**: **MCA** (Master of Computer Applications) 🎓<br>
+💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬
+
 
 
 ## 🌐 Socials:
