@@ -6,7 +6,7 @@
 👯 **Looking to collaborate on**: Building **Next.js** projects 🚀<br>
 🌱 **Currently learning**: Backend development 🖥️<br>
 ⚡ **Pursuing**: **MCA** (Master of Computer Applications) 🎓<br>
-💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬
+💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬 <br>
     **WannaKnow more about me? Look here->** bhuvan-shetty.netlify.app
 
 
