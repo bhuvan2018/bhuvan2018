@@ -7,7 +7,7 @@
 🌱 **Currently learning**: Backend development 🖥️<br>
 ⚡ **Pursuing**: **MCA** (Master of Computer Applications) 🎓<br>
 💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬 <br>
-    **WannaKnow more about me? Look here->** [Click here to visit my site](https://bhuvan-shetty.netlify.app)
+    **WannaKnow more about me? Look here->** (https://bhuvan-shetty.netlify.app)
 
 
 ## 🌐 Socials:
