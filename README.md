@@ -2,12 +2,7 @@
 
 ### Hi, I'm **Bhuvan Shetty**! 👋
 
-🔭 **Currently working on**: A secret project 🤫<br>
-👯 **Looking to collaborate on**: Building **Next.js** projects 🚀<br>
-🌱 **Currently learning**: Backend development 🖥️<br>
-⚡ **Pursuing**: **MCA** (Master of Computer Applications) 🎓<br>
-💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬 <br>
-    **Wanna Know more about me? Look here->** https://bhuvan-shetty.netlify.app
+🔭 Currently working on: A secret project 🤫 <br> 👯 Looking to collaborate on: Building Next.js projects 🚀 <br> 🌱 Currently learning: Backend development 🖥️ <br> ⚡ Pursuing: MCA (Master of Computer Applications) 🎓 <br> 💬 Feel free to reach out: Let's connect and discuss tech, projects, and ideas! 💬 <br> 🌐 Wanna know more about me? Check out my website: bhuvan-shetty.netlify.app
 
 
 ## 🌐 Socials:
