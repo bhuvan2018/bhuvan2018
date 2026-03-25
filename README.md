@@ -2,7 +2,7 @@
 
 ### Hi, I'm **Bhuvan Shetty**! 👋
 
-🔭 **Currently working on**: A secret project 🤫<br> 👯 **Looking to collaborate on**: Building **React.js** projects 🚀<br> ⚡ **Graduated**: **MCA** (Master of Computer Applications) 🎓<br> 💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬 <br> **Wanna Know more about me? Look here->** https://bhuvan-shetty.vercel.app
+🔭 **Currently working as**: SDE 🤫<br> 👯 **Looking to collaborate on**: Building **React.js** projects 🚀<br> ⚡ **Graduated**: **MCA** (Master of Computer Applications) 🎓<br> 💬 **Feel free to reach out**: Let's connect and discuss tech, projects, and ideas! 💬 <br> **Wanna Know more about me? Look here->** https://bhuvan-shetty.vercel.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.bhuvanshetty._/)
