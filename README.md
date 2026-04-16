@@ -2,7 +2,7 @@
 
 ### Hi, I'm **Bhuvan Shetty**! 👋
 
-👨‍💻 **Currently working as**: SDE <br> </> **Tech Stack**: **React.js, Node.js, Express.js, Supabase, MySQL** <br> ⚡ **Graduated**: **MCA** (Master of Computer Applications) 🎓 <br> ☁️ **Wanna Know more about me? Look here->** https://bhuvan-shetty.vercel.app
+👨‍💻 **Currently working as**: SDE <br> </> **Tech Stack**: **React.js, Node.js, Express.js, Supabase** <br> ⚡ **Graduated**: **MCA** (Master of Computer Applications) 🎓 <br> ☁️ **Wanna Know more about me? Look here->** https://bhuvan-shetty.vercel.app
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_.bhuvanshetty._/)
